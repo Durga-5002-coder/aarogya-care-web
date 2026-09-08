@@ -1,0 +1,7 @@
+{
+  "name": "AarogyaCare",
+  "description": "Smart Healthcare app with Aadhaar authentication, AI medical triage assistant, report scanner, OP registration & doctor clinical summary.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
